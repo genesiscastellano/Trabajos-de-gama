@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\bin\Debug\DATOS_ESTUDIANTES.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\bin\Debug\DATOS_ESTUDIANTES.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\bin\Debug\DATOS_ESTUDIANTES.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\DATOS_ESTUDIANTES\obj\Debug\DATOS_ESTUDIANTES.pdb

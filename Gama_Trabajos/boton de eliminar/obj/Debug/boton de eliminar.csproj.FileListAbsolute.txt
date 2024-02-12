@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\bin\Debug\boton de eliminar.exe.config
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\bin\Debug\boton de eliminar.exe
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\bin\Debug\boton de eliminar.pdb
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton de eliminar.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton_de_eliminar.Form1.resources
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton_de_eliminar.Properties.Resources.resources
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton de eliminar.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton de eliminar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton de eliminar.exe
+C:\Users\Administrator\Documents\ejercios de gama\boton de eliminar\obj\Debug\boton de eliminar.pdb

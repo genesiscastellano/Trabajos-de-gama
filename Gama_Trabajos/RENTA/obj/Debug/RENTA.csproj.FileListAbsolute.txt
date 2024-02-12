@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\bin\Debug\RENTA.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\bin\Debug\RENTA.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\bin\Debug\RENTA.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\RENTA\obj\Debug\RENTA.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\bin\Debug\CALCULAR_APP.exe.config
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\bin\Debug\CALCULAR_APP.exe
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\bin\Debug\CALCULAR_APP.pdb
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.Form1.resources
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.Properties.Resources.resources
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.exe
+C:\Users\Administrator\Documents\ejercios de gama\CALCULAR_APP\obj\Debug\CALCULAR_APP.pdb
