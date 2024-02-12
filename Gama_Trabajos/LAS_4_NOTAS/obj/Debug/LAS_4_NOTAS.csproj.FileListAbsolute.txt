@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\bin\Debug\LAS_4_NOTAS.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\bin\Debug\LAS_4_NOTAS.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\bin\Debug\LAS_4_NOTAS.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\LAS_4_NOTAS\obj\Debug\LAS_4_NOTAS.pdb
