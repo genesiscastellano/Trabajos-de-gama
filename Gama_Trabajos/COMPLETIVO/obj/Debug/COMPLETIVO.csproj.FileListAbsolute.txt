@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\bin\Debug\COMPLETIVO.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\bin\Debug\COMPLETIVO.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\bin\Debug\COMPLETIVO.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\COMPLETIVO\obj\Debug\COMPLETIVO.pdb

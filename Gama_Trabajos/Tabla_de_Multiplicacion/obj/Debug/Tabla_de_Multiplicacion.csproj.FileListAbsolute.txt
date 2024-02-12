@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\bin\Debug\Tabla_de_Multiplicacion.exe.config
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\bin\Debug\Tabla_de_Multiplicacion.exe
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\bin\Debug\Tabla_de_Multiplicacion.pdb
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.Form1.resources
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.Properties.Resources.resources
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.exe
+C:\Users\Administrator\Documents\ejercios de gama\Tabla_de_Multiplicacion\obj\Debug\Tabla_de_Multiplicacion.pdb

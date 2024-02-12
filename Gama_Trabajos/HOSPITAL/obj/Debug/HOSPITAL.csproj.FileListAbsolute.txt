@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\HOSPITAL\obj\Debug\HOSPITAL.pdb

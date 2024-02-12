@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\bin\Debug\CUOTA_PRESTAMO.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\bin\Debug\CUOTA_PRESTAMO.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\bin\Debug\CUOTA_PRESTAMO.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\CUOTA_PRESTAMO\obj\Debug\CUOTA_PRESTAMO.pdb
