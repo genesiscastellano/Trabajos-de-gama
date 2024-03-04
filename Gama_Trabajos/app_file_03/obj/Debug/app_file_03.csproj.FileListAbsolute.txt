@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.TEXTO.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\bin\Debug\app_file_03.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\bin\Debug\app_file_03.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\bin\Debug\app_file_03.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_file_03\obj\Debug\app_file_03.pdb

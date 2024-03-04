@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\bin\Debug\net8.0\app.file.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\bin\Debug\net8.0\app.file.deps.json
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\bin\Debug\net8.0\app.file.runtimeconfig.json
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\bin\Debug\net8.0\app.file.dll
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\bin\Debug\net8.0\app.file.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.dll
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\refint\app.file.dll
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\app.file.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app.file\obj\Debug\net8.0\ref\app.file.dll
