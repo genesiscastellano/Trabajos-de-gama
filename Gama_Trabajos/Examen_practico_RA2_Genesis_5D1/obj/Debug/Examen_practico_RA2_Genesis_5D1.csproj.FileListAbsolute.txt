@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\bin\Debug\Examen_practico_RA2_Genesis_5D1.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\bin\Debug\Examen_practico_RA2_Genesis_5D1.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\bin\Debug\Examen_practico_RA2_Genesis_5D1.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.Resgistro_estudiantes.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\obj\Debug\Examen_practico_RA2_Genesis_5D1.pdb

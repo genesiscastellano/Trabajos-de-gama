@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 7:44 am...
+1>------ Operación Compilar iniciada: Proyecto: Examen_practico_RA2_Genesis_5D1, configuración: Debug Any CPU ------
+1>C:\Users\Administrator\Desktop\Gama_Trabajos\Examen_practico_RA2_Genesis_5D1\Form1.cs(135,18,135,28): error CS0101: El espacio de nombres 'Examen_practico_RA2_Genesis_5D1' ya contiene una definición para 'Estudiante'
+========== Compilación: 0 correcto, 1 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 7:44 am y tardó 00.677 segundos ==========
